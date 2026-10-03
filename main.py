@@ -1,1 +1,1 @@
-print(1git commit -m "first commit")
+print("first commit")
