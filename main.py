@@ -1,4 +1,1 @@
-def teste():
-    
-    nome = 'teste'
-
+print(1)
